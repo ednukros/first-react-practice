@@ -1,4 +1,13 @@
 .app {
   text-align: center;
   padding: 20px;
+}
+
+li {
+  list-style: none;
+}
+
+.person {
+  background-color: red;
+  border-radius: 25px;
 }/*# sourceMappingURL=App.css.map */

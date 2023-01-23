@@ -1,0 +1,1 @@
+Se puede hacer destructuring con el props name, pero no con el style?
