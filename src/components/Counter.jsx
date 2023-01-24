@@ -4,7 +4,7 @@ import React from 'react'
 
 const Counter = () => {
 
-    const [counter, setCounter] = useState(0);
+    const [counter, setCounter] = useState(0); //useState es un hook----valor inicial 0
 
     const sumClick = () => {
         setCounter(counter + 1);
