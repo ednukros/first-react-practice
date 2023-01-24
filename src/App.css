@@ -8,6 +8,30 @@ li {
 }
 
 .person {
-  background-color: red;
   border-radius: 25px;
+}
+
+.form-practice {
+  padding: 20px;
+}
+.form-practice button {
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.container-gallery {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.container-gallery .gallery {
+  border-radius: 15px;
+  margin: 15px;
+  width: 250px;
+  padding: 30px;
+}
+.container-gallery .gallery .img-container .picture {
+  height: auto;
+  width: 200px;
+  border-radius: 5px;
 }/*# sourceMappingURL=App.css.map */

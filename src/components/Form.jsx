@@ -20,7 +20,7 @@ const Form = (props) => {
     };
 
     return (
-        <form onSubmit={submitForm}>
+        <form className='form-practice' onSubmit={submitForm}>
             <fieldset>
                 <label>
                     <p>Nombre</p>

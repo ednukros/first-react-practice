@@ -1,14 +1,49 @@
 .app {
   text-align: center;
   padding: 20px;
-  
+
 }
 
-li{
+li {
   list-style: none;
 }
 
-.person{
-  background-color: red;
+.person {
+  // background-color: red;
   border-radius: 25px;
+}
+
+.form-practice {
+
+  padding: 20px;
+
+  button {
+    margin-bottom: 15px;
+    padding: 10px;
+  }
+
+}
+
+
+.container-gallery {
+  color: white;
+  display: flex;
+  justify-content: center;
+
+  .gallery {
+    border-radius: 15px;
+    margin: 15px;
+    width: 250px;
+    padding: 30px;
+
+    .img-container {
+
+      .picture {
+        height: auto;
+        width: 200px;
+        border-radius: 5px;
+      }
+    }
+
+  }
 }
